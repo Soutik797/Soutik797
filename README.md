@@ -1,6 +1,7 @@
 ### Hi there, I'm [Soutik Talukder] 👋
  
-![My GitHub Banner](https://www.canva.com/design/DAGjmnSKMEM/vJJXEB_K_1IZZ33LvXBioA/view?utm_content=DAGjmnSKMEM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8bc8daf20f)
+![Yellow Modern Freelance Copywriter LinkedIn Banner](https://github.com/user-attachments/assets/fac3aee8-2b62-4a1e-baa8-2926361640b8)
+
  
 I'm a **Software Engineer** at **LTI Mindtree** 🚀, passionate about delivering creative solutions in **L2 & L3 Infrastructure Services**. I thrive on problem-solving and continuously improving my skills to drive impactful outcomes.
  
