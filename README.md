@@ -32,17 +32,7 @@ I'm a **Software Engineer** at **LTI Mindtree** 🚀, passionate about deliverin
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-5cb85c?style=for-the-badge&logo=servicenow&logoColor=white)
  
 ---
- 
-### 📊 GitHub Stats
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)
- 
----
- 
+  
 ### 🌎 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
