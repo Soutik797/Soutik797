@@ -1,6 +1,6 @@
 ### Hi there, I'm [Your Name] 👋
  
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
+[![Banner](https://source.unsplash.com/1600x400/?technology,coding)](https://www.canva.com/design/DAGjmnSKMEM/vJJXEB_K_1IZZ33LvXBioA/view?utm_content=DAGjmnSKMEM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8bc8daf20f)
  
 I'm a **Software Engineer** at **LTI Mindtree** 🚀, passionate about delivering creative solutions in **L2 & L3 Infrastructure Services**. I thrive on problem-solving and continuously improving my skills to drive impactful outcomes.
  
