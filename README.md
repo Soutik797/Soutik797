@@ -13,8 +13,6 @@ I'm a **Software Engineer** at **LTI Mindtree** 🚀, passionate about deliverin
 - 💡 Strong foundation in **L2 & L3 Infrastructure Services**
 - 🌱 I’m learning **Cloud Computing and Advanced Data Processing**
 - 💬 Ask me about **Python, SQL, Django, and Infrastructure Services**
-- 📫 Reach me at: **[Your Email]**
-- 🌎 Visit my portfolio: **[Your Portfolio Link](#)**
 - 🌍 I speak **Bengali, Hindi, and English**
 - ⚡ Fun Fact: I love coding while listening to 🎵
  
